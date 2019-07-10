@@ -1,7 +1,7 @@
 var kittens = [ 'Milo', 'Otis', 'Garfield' ] //define your array here
 
 function destuctivelyAppendKitten(luke){
-  return 
+  return kittes
 }
 
 // Add your functions and code here
